@@ -1,0 +1,458 @@
+[
+  {
+    "productName": "Car Charger Deluxe 01",
+    "discount": 10,
+    "price": 1585, 
+    "productDetails": [
+      {
+        "heading": "Overview",
+        "description": "Charge your devices on the go with our high-quality car charger."
+      }
+    ],
+    "productFeatures": [
+      {
+        "heading": "Fast Charging",
+        "description": "Get your devices charged quickly with our fast-charging technology."
+      },
+      {
+        "heading": "Dual USB Ports",
+        "description": "Charge multiple devices simultaneously with dual USB ports."
+      },
+      {
+        "heading": "Compact Design",
+        "description": "Sleek and compact design for convenient use in your car."
+      }
+    ],
+    "categories": ["Car Accessories", "Chargers"],
+    "images": [
+      "https://res.cloudinary.com/dg8qpvmmh/image/upload/v1702660052/DAPS/Products/jxexkvt0zzyiaxlaeetc.png",
+      "https://res.cloudinary.com/dg8qpvmmh/image/upload/v1702660054/DAPS/Products/neitucmxjwbs1znlmdnc.png",
+      "https://res.cloudinary.com/dg8qpvmmh/image/upload/v1702660055/DAPS/Products/doayqeb6yknkwtjdtndc.png",
+      "https://res.cloudinary.com/dg8qpvmmh/image/upload/v1702660055/DAPS/Products/qddkidez3qol1xb8wvni.png"
+    ],
+    "status": "Tranding",
+    "android": [
+      {
+        "isAndroid": false,
+        "screenSize": "",
+        "variant": [
+          {
+            "processorName": "",
+            "processLabel": "",
+            "carsSupported": [],
+            "ram": "",
+            "rom": "",
+            "isAppleCarplayAndAndroidAutoSupported": true,
+            "wirelessWired": "",
+            "isDVRSupported": true,
+            "is360CameraSupported": "Yes",
+            "isSimSupported": "Yes",
+            "isWarrantyAvailable": "Yes",
+            "warrantyPeriod": "10",
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "fMBT": [
+      {
+        "isFmBt": false,
+        "controlOption": "",
+        "basePrice": 1
+      }
+    ],
+    "bassTube": [
+      {
+        "isBassTube": false,
+        "wattage": "",
+        "speakerSize": "",
+        "basePrice": 1
+      }
+    ],
+    "led": {
+      "isLed": false,
+      "variant": [
+        {
+          "wattage": "",
+          "socketsSupported": [],
+          "basePrice": 1
+        }
+      ]
+    },
+    "speakers": [
+      {
+        "isSpeakers": false,
+        "speakerSize": "",
+        "basePrice": 1
+      }
+    ],
+    "chargers": [
+      {
+        "isChargers": true,
+        "wattage": "Fast Charging",
+        "basePrice":15542
+      },
+      {
+        "isChargers": true,
+        "wattage": "Standard Charging",
+        "basePrice": 632
+      },
+      {
+        "isChargers": true,
+        "wattage": "Dual USB Ports",
+        "basePrice": 2500
+      }
+    ],
+    "amplifiers": {
+      "isAmplifiers": false,
+      "variant": [
+        {
+          "totalChannels": "",
+          "wattage": "",
+          "basePrice": 1
+        }
+      ]
+    },
+    "dampingSheets": [
+      {
+        "isDampingSheets": false,
+        "thickness": "",
+        "sheetsInOneBox": "",
+        "basePrice": 1
+      }
+    ],
+    "HID": {
+      "isHID": false,
+      "variant": [
+        {
+          "wattage": "",
+          "lightColor": "",
+          "basePrice": 1
+        }
+      ]
+    },
+    "camera": {
+      "isCamera": false,
+      "variant": [
+        {
+          "cameraQuality": "",
+          "areThereGuidelines": false,
+          "guidelinesType": {
+            "Static": false,
+            "Dynamic": false
+          },
+          "fieldOfViewType": {
+            "Wide": false,
+            "UltraWide": false
+          },
+          "processorsSupported": [],
+          "basePrice": 1
+        }
+      ]
+    }
+  },
+  {
+    "productName": "Car Charger Deluxe 02",
+    "discount": 10,
+    "price": 1585, 
+    "productDetails": [
+      {
+        "heading": "Overview",
+        "description": "Charge your devices on the go with our high-quality car charger."
+      }
+    ],
+    "productFeatures": [
+      {
+        "heading": "Fast Charging",
+        "description": "Get your devices charged quickly with our fast-charging technology."
+      },
+      {
+        "heading": "Dual USB Ports",
+        "description": "Charge multiple devices simultaneously with dual USB ports."
+      },
+      {
+        "heading": "Compact Design",
+        "description": "Sleek and compact design for convenient use in your car."
+      }
+    ],
+    "categories": ["Car Accessories", "Chargers"],
+    "images": [
+      "https://res.cloudinary.com/dg8qpvmmh/image/upload/v1702660052/DAPS/Products/jxexkvt0zzyiaxlaeetc.png",
+      "https://res.cloudinary.com/dg8qpvmmh/image/upload/v1702660054/DAPS/Products/neitucmxjwbs1znlmdnc.png",
+      "https://res.cloudinary.com/dg8qpvmmh/image/upload/v1702660055/DAPS/Products/doayqeb6yknkwtjdtndc.png",
+      "https://res.cloudinary.com/dg8qpvmmh/image/upload/v1702660055/DAPS/Products/qddkidez3qol1xb8wvni.png"
+    ],
+    "status": "Tranding",
+    "android": [
+      {
+        "isAndroid": false,
+        "screenSize": "",
+        "variant": [
+          {
+            "processorName": "",
+            "processLabel": "",
+            "carsSupported": [],
+            "ram": "",
+            "rom": "",
+            "isAppleCarplayAndAndroidAutoSupported": true,
+            "wirelessWired": "",
+            "isDVRSupported": true,
+            "is360CameraSupported": "Yes",
+            "isSimSupported": "Yes",
+            "isWarrantyAvailable": "Yes",
+            "warrantyPeriod": "10",
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "fMBT": [
+      {
+        "isFmBt": false,
+        "controlOption": "",
+        "basePrice": 1
+      }
+    ],
+    "bassTube": [
+      {
+        "isBassTube": false,
+        "wattage": "",
+        "speakerSize": "",
+        "basePrice": 1
+      }
+    ],
+    "led": {
+      "isLed": false,
+      "variant": [
+        {
+          "wattage": "",
+          "socketsSupported": [],
+          "basePrice": 1
+        }
+      ]
+    },
+    "speakers": [
+      {
+        "isSpeakers": false,
+        "speakerSize": "",
+        "basePrice": 1
+      }
+    ],
+    "chargers": [
+      {
+        "isChargers": true,
+        "wattage": "Fast Charging",
+        "basePrice":15542
+      },
+      {
+        "isChargers": true,
+        "wattage": "Standard Charging",
+        "basePrice": 632
+      },
+      {
+        "isChargers": true,
+        "wattage": "Dual USB Ports",
+        "basePrice": 2500
+      }
+    ],
+    "amplifiers": {
+      "isAmplifiers": false,
+      "variant": [
+        {
+          "totalChannels": "",
+          "wattage": "",
+          "basePrice": 1
+        }
+      ]
+    },
+    "dampingSheets": [
+      {
+        "isDampingSheets": false,
+        "thickness": "",
+        "sheetsInOneBox": "",
+        "basePrice": 1
+      }
+    ],
+    "HID": {
+      "isHID": false,
+      "variant": [
+        {
+          "wattage": "",
+          "lightColor": "",
+          "basePrice": 1
+        }
+      ]
+    },
+    "camera": {
+      "isCamera": false,
+      "variant": [
+        {
+          "cameraQuality": "",
+          "areThereGuidelines": false,
+          "guidelinesType": {
+            "Static": false,
+            "Dynamic": false
+          },
+          "fieldOfViewType": {
+            "Wide": false,
+            "UltraWide": false
+          },
+          "processorsSupported": [],
+          "basePrice": 1
+        }
+      ]
+    }
+  },
+  {
+    "productName": "Car Charger Deluxe 03",
+    "discount": 10,
+    "price": 1585, 
+    "productDetails": [
+      {
+        "heading": "Overview",
+        "description": "Charge your devices on the go with our high-quality car charger."
+      }
+    ],
+    "productFeatures": [
+      {
+        "heading": "Fast Charging",
+        "description": "Get your devices charged quickly with our fast-charging technology."
+      },
+      {
+        "heading": "Dual USB Ports",
+        "description": "Charge multiple devices simultaneously with dual USB ports."
+      },
+      {
+        "heading": "Compact Design",
+        "description": "Sleek and compact design for convenient use in your car."
+      }
+    ],
+    "categories": ["Car Accessories", "Chargers"],
+    "images": [
+      "https://res.cloudinary.com/dg8qpvmmh/image/upload/v1702660052/DAPS/Products/jxexkvt0zzyiaxlaeetc.png",
+      "https://res.cloudinary.com/dg8qpvmmh/image/upload/v1702660054/DAPS/Products/neitucmxjwbs1znlmdnc.png",
+      "https://res.cloudinary.com/dg8qpvmmh/image/upload/v1702660055/DAPS/Products/doayqeb6yknkwtjdtndc.png",
+      "https://res.cloudinary.com/dg8qpvmmh/image/upload/v1702660055/DAPS/Products/qddkidez3qol1xb8wvni.png"
+    ],
+    "status": "Tranding",
+    "android": [
+      {
+        "isAndroid": false,
+        "screenSize": "",
+        "variant": [
+          {
+            "processorName": "",
+            "processLabel": "",
+            "carsSupported": [],
+            "ram": "",
+            "rom": "",
+            "isAppleCarplayAndAndroidAutoSupported": true,
+            "wirelessWired": "",
+            "isDVRSupported": true,
+            "is360CameraSupported": "Yes",
+            "isSimSupported": "Yes",
+            "isWarrantyAvailable": "Yes",
+            "warrantyPeriod": "10",
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "fMBT": [
+      {
+        "isFmBt": false,
+        "controlOption": "",
+        "basePrice": 1
+      }
+    ],
+    "bassTube": [
+      {
+        "isBassTube": false,
+        "wattage": "",
+        "speakerSize": "",
+        "basePrice": 1
+      }
+    ],
+    "led": {
+      "isLed": false,
+      "variant": [
+        {
+          "wattage": "",
+          "socketsSupported": [],
+          "basePrice": 1
+        }
+      ]
+    },
+    "speakers": [
+      {
+        "isSpeakers": false,
+        "speakerSize": "",
+        "basePrice": 1
+      }
+    ],
+    "chargers": [
+      {
+        "isChargers": true,
+        "wattage": "Fast Charging",
+        "basePrice":15542
+      },
+      {
+        "isChargers": true,
+        "wattage": "Standard Charging",
+        "basePrice": 632
+      },
+      {
+        "isChargers": true,
+        "wattage": "Dual USB Ports",
+        "basePrice": 2500
+      }
+    ],
+    "amplifiers": {
+      "isAmplifiers": false,
+      "variant": [
+        {
+          "totalChannels": "",
+          "wattage": "",
+          "basePrice": 1
+        }
+      ]
+    },
+    "dampingSheets": [
+      {
+        "isDampingSheets": false,
+        "thickness": "",
+        "sheetsInOneBox": "",
+        "basePrice": 1
+      }
+    ],
+    "HID": {
+      "isHID": false,
+      "variant": [
+        {
+          "wattage": "",
+          "lightColor": "",
+          "basePrice": 1
+        }
+      ]
+    },
+    "camera": {
+      "isCamera": false,
+      "variant": [
+        {
+          "cameraQuality": "",
+          "areThereGuidelines": false,
+          "guidelinesType": {
+            "Static": false,
+            "Dynamic": false
+          },
+          "fieldOfViewType": {
+            "Wide": false,
+            "UltraWide": false
+          },
+          "processorsSupported": [],
+          "basePrice": 1
+        }
+      ]
+    }
+  }
+]

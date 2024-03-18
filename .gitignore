@@ -1,0 +1,7 @@
+logs
+node_modules
+.env
+.vercel
+
+src/key
+

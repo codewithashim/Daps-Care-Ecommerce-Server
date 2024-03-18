@@ -1,0 +1,141 @@
+[
+  {
+    "productName": "",
+    "discount": "",
+    "productDetails": [
+      {
+        "heading": "",
+        "description": ""
+      }
+    ],
+    "productFeatures": [
+      {
+        "heading": "",
+        "description": ""
+      }
+    ],
+    "aPlusContent": {
+      "imageOne": "",
+      "imageTwo": "",
+      "imageThree": "",
+      "imageFour": "",
+      "imageFive": "",
+      "imageSix": ""
+    },
+    "productCategory": [""],
+    "price": 1,
+    "images": [""],
+    "status": "Tranding",
+    "android": [
+      {
+        "isAndroid": true,
+        "screenSize": "",
+        "variant": [
+          {
+            "processorName": "",
+            "processLabel": "",
+            "carsSupported": [],
+            "ram": "",
+            "rom": "",
+            "isAppleCarplayAndAndroidAutoSupported": true,
+            "wirelessWired": "",
+            "isDVRSupported": true,
+            "is360CameraSupported": "Yes",
+            "isSimSupported": "Yes",
+            "isWarrantyAvailable": "Yes",
+            "warrantyPeriod": "10",
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "fMBT": [
+      {
+        "isFmBt": true,
+        "controlOption": "",
+        "basePrice": 1
+      }
+    ],
+    "bassTube": [
+      {
+        "isBassTube": true,
+        "wattage": "",
+        "speakerSize": "",
+        "basePrice": 1
+      }
+    ],
+    "led": [
+      {
+        "isLed": true,
+        "variant": [
+          {
+            "wattage": "",
+            "socketsSupported": [],
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "speakers": [
+      {
+        "isSpeakers": true,
+        "speakerSize": "",
+        "basePrice": 1
+      }
+    ],
+    "chargers": [
+      {
+        "isChargers": true,
+        "wattage": "",
+        "basePrice": 1
+      }
+    ],
+    "amplifiers": [
+      {
+        "isAmplifiers": true,
+        "variant": [
+          {
+            "totalChannels": "",
+            "wattage": "",
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "dampingSheets": [
+      {
+        "isDampingSheets": true,
+        "thickness": "",
+        "sheetsInOneBox": "",
+        "basePrice": 1
+      }
+    ],
+    "HID": [
+      {
+        "isHID": true,
+        "variant": [
+          {
+            "wattage": "",
+            "lightColor": "",
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "camera": [
+      {
+        "isCamera": false,
+        "variant": [
+          {
+            "cameraQuality": "",
+            "areThereGuidelines": false,
+            "guidelinesType": "",
+            "fieldOfViewType":  "",
+            "processorsSupported": [],
+            "basePrice": 1
+          }
+        ]
+      }
+    ]
+  }
+]

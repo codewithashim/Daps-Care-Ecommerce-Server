@@ -1,0 +1,63 @@
+[
+  {
+    "carName": "Maruti",
+    "carBrand": "Maruti",
+    "generation": [
+      {
+        "startYear": "2002",
+        "endYear": "2020",
+        "model": [
+          {
+            "modelName": "BREZZA 2015 TO 2021",
+            "beams": {
+              "isLowAndHighBeamsSeparate": true,
+              "lowBeamSoketSupportedName": "",
+              "highBeamSoketSupportedName": "",
+              "beamSoketSupportedName": ""
+            }, 
+            "foglight": {
+              "isFoglightSupported": true,
+              "foglightSocketSupportedName": ""
+            },
+            "canbus": {
+              "isCanbusRequired": true,
+              "canbusPrice": 1
+            },
+            "frameCost": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "carName": "HYUNDAI",
+    "carBrand": "HYUNDAI",
+    "generation": [
+      {
+        "startYear": "2002",
+        "endYear": "2020",
+        "model": [
+          {
+            "modelName": "I-20 2008-11 AUTOMATIC",
+            "beams": {
+              "isLowAndHighBeamsSeparate": true,
+              "lowBeamSoketSupportedName": "",
+              "highBeamSoketSupportedName": "",
+              "beamSoketSupportedName": ""
+            },
+            "foglight": {
+              "isFoglightSupported": true,
+              "foglightSocketSupportedName": ""
+            },
+            "canbus": {
+              "isCanbusRequired": true,
+              "canbusPrice": 1
+            },
+            "frameCost": 1
+          }
+        ]
+      }
+    ]
+  }
+]
+

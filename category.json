@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Android Stereos",
+        "parent": null,
+        "details": "",
+        "image": "https://res.cloudinary.com/elpixala/image/upload/v1697620921/nykhhjm0byyrgpomyje4.png",
+        "icons": "https://res.cloudinary.com/elpixala/image/upload/v1697462399/Daps/Categories/btpltu9sl8fvzd7lsipv.png"
+    },
+    {
+        "name": "9”/10” Car Specific Stereos",
+        "parent": "Android Stereos",
+        "details": "",
+        "image": "https://res.cloudinary.com/elpixala/image/upload/v1697620921/nykhhjm0byyrgpomyje4.png",
+        "icons": "https://res.cloudinary.com/elpixala/image/upload/v1697462399/Daps/Categories/btpltu9sl8fvzd7lsipv.png"
+    },
+    {
+        "name": "Styled Stereos",
+        "parent": "Android Stereos",
+        "details": "",
+        "image": "https://res.cloudinary.com/elpixala/image/upload/v1697620921/nykhhjm0byyrgpomyje4.png",
+        "icons": "https://res.cloudinary.com/elpixala/image/upload/v1697462399/Daps/Categories/btpltu9sl8fvzd7lsipv.png"
+    },
+    {
+        "name": "OEM Stereos",
+        "parent": "Android Stereo",
+        "details": "",
+        "image": "https://res.cloudinary.com/elpixala/image/upload/v1697620921/nykhhjm0byyrgpomyje4.png",
+        "icons": "https://res.cloudinary.com/elpixala/image/upload/v1697462399/Daps/Categories/btpltu9sl8fvzd7lsipv.png"
+    },
+    {
+        "name": "FM BT",
+        "parent": null,
+        "details": "",
+        "image": "https://res.cloudinary.com/elpixala/image/upload/v1697620921/nykhhjm0byyrgpomyje4.png",
+        "icons": "https://res.cloudinary.com/elpixala/image/upload/v1697462399/Daps/Categories/btpltu9sl8fvzd7lsipv.png"
+    },
+    {
+        "name": "Basstube",
+        "parent": null,
+        "details": "",
+        "image": "https://res.cloudinary.com/elpixala/image/upload/v1697620921/nykhhjm0byyrgpomyje4.png",
+        "icons": "https://res.cloudinary.com/elpixala/image/upload/v1697462399/Daps/Categories/btpltu9sl8fvzd7lsipv.png"
+    },
+    {
+        "name": "LED",
+        "parent": null,
+        "details": "",
+        "image": "https://res.cloudinary.com/elpixala/image/upload/v1697620921/nykhhjm0byyrgpomyje4.png",
+        "icons": "https://res.cloudinary.com/elpixala/image/upload/v1697462399/Daps/Categories/btpltu9sl8fvzd7lsipv.png"
+    },
+    {
+        "name": "Speaker",
+        "parent": null,
+        "details": "",
+        "image": "https://res.cloudinary.com/elpixala/image/upload/v1697620921/nykhhjm0byyrgpomyje4.png",
+        "icons": "https://res.cloudinary.com/elpixala/image/upload/v1697462399/Daps/Categories/btpltu9sl8fvzd7lsipv.png"
+    },
+    {
+        "name": "Charger",
+        "parent": null,
+        "details": "",
+        "image": "https://res.cloudinary.com/elpixala/image/upload/v1697620921/nykhhjm0byyrgpomyje4.png",
+        "icons": "https://res.cloudinary.com/elpixala/image/upload/v1697462399/Daps/Categories/btpltu9sl8fvzd7lsipv.png"
+    },
+    {
+        "name": "Amplifer",
+        "parent": null,
+        "details": "",
+        "image": "https://res.cloudinary.com/elpixala/image/upload/v1697620921/nykhhjm0byyrgpomyje4.png",
+        "icons": "https://res.cloudinary.com/elpixala/image/upload/v1697462399/Daps/Categories/btpltu9sl8fvzd7lsipv.png"
+    },
+    {
+        "name": "Damping Sheets",
+        "parent": null,
+        "details": "",
+        "image": "https://res.cloudinary.com/elpixala/image/upload/v1697620921/nykhhjm0byyrgpomyje4.png",
+        "icons": "https://res.cloudinary.com/elpixala/image/upload/v1697462399/Daps/Categories/btpltu9sl8fvzd7lsipv.png"
+    },
+    {
+        "name": "HID",
+        "parent": null,
+        "details": "",
+        "image": "https://res.cloudinary.com/elpixala/image/upload/v1697620921/nykhhjm0byyrgpomyje4.png",
+        "icons": "https://res.cloudinary.com/elpixala/image/upload/v1697462399/Daps/Categories/btpltu9sl8fvzd7lsipv.png"
+    },
+    {
+        "name": "Camera",
+        "parent": null,
+        "details": "",
+        "image": "https://res.cloudinary.com/elpixala/image/upload/v1697620921/nykhhjm0byyrgpomyje4.png",
+        "icons": "https://res.cloudinary.com/elpixala/image/upload/v1697462399/Daps/Categories/btpltu9sl8fvzd7lsipv.png"
+    }
+]

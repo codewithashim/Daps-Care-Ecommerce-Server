@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Audi",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Verna/9744/1694602806760/front-left-side-47.jpg?tr=w-456",
+    "vedio": "https://res.cloudinary.com/elpixala/vedio/upload/v1699818085/Daps/vedio/vuy4w20q6yzxwytwsain.mp4"
+  },
+  {
+    "name": "Octa",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Verna/9744/1694602806760/front-left-side-47.jpg?tr=w-456",
+    "vedio": "https://res.cloudinary.com/elpixala/vedio/upload/v1699818101/Daps/vedio/udwdrakltqhai6zjil0b.mp4"
+  },
+  {
+    "id": 2,
+    "name": "Mercedes",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Harrier/9368/1697532960290/front-left-side-47.jpg?tr=w-456",
+    "vedio": "https://res.cloudinary.com/elpixala/vedio/upload/v1699818110/Daps/vedio/wbkf6svvxaskagjfmebg.mp4"
+  },
+  {
+    "id": 3,
+    "name": "Mighty",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Harrier/9368/1697532960290/front-left-side-47.jpg?tr=w-456",
+    "vedio": "https://res.cloudinary.com/elpixala/vedio/upload/v1699818177/Daps/vedio/ubo474a030zdreweg2no.mp4"
+  },
+  {
+    "name": "Supreme",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Harrier/9368/1697532960290/front-left-side-47.jpg?tr=w-456",
+    "vedio": "https://res.cloudinary.com/elpixala/vedio/upload/v1699818101/Daps/vedio/udwdrakltqhai6zjil0b.mp4"
+  },
+  {
+    "name": "Tesla",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Harrier/9368/1697532960290/front-left-side-47.jpg?tr=w-456",
+    "vedio": "https://res.cloudinary.com/elpixala/vedio/upload/v1699818110/Daps/vedio/wbkf6svvxaskagjfmebg.mp4"
+  },
+  {
+    "name": "Tata",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Verna/9744/1694602806760/front-left-side-47.jpg?tr=w-456",
+    "vedio": "https://res.cloudinary.com/elpixala/vedio/upload/v1699818177/Daps/vedio/ubo474a030zdreweg2no.mp4"
+  },
+  {
+    "name": "Honda",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Harrier/9368/1697532960290/front-left-side-47.jpg?tr=w-456",
+    "vedio": "https://res.cloudinary.com/elpixala/vedio/upload/v1699818101/Daps/vedio/udwdrakltqhai6zjil0b.mp4"
+  },
+  {
+    "name": "Hyundai",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Verna/9744/1694602806760/front-left-side-47.jpg?tr=w-456",
+    "vedio": "https://res.cloudinary.com/elpixala/vedio/upload/v1699818110/Daps/vedio/wbkf6svvxaskagjfmebg.mp4"
+  },
+  {
+    "name": "Tata",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Verna/9744/1694602806760/front-left-side-47.jpg?tr=w-456",
+    "vedio": "https://res.cloudinary.com/elpixala/vedio/upload/v1699818177/Daps/vedio/ubo474a030zdreweg2no.mp4"
+  }
+]

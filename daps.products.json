@@ -1,0 +1,597 @@
+[
+  {
+    "productName": "Zap Zoom Charger",
+    "discount": "20",
+    "productDetails": [
+      {
+        "heading": "",
+        "description": ""
+      }
+    ],
+    "productFeatures": [
+      {
+        "heading": "",
+        "description": ""
+      }
+    ],
+    "aPlusContent": {
+      "imageOne": "https://res.cloudinary.com/dapscar/image/upload/v1703455509/A%20plus%20Content/Charger/1_xvrcab.png",
+      "imageTwo": "https://res.cloudinary.com/dapscar/image/upload/v1703455509/A%20plus%20Content/Charger/3_wanoux.png",
+      "imageThree": "https://res.cloudinary.com/dapscar/image/upload/v1703455510/A%20plus%20Content/Charger/4_fcclqb.png",
+      "imageFour": "https://res.cloudinary.com/dapscar/image/upload/v1703455509/A%20plus%20Content/Charger/3_wanoux.png",
+      "imageFive": "https://res.cloudinary.com/dapscar/image/upload/v1703455510/A%20plus%20Content/Charger/4_fcclqb.png",
+      "imageSix": "https://res.cloudinary.com/dapscar/image/upload/v1703455509/A%20plus%20Content/Charger/2_r7bsq0.png"
+    },
+    "productCategory": ["Chargers"],
+    "price": 1000,
+    "images": [
+      "https://res.cloudinary.com/dapscar/image/upload/v1703455563/Products/Charger/1_kk7lbu.png",
+      "https://res.cloudinary.com/dapscar/image/upload/v1703455540/Products/Charger/2_g88iii.png",
+      "https://res.cloudinary.com/dapscar/image/upload/v1703455539/Products/Charger/3_bcfze5.png",
+      "https://res.cloudinary.com/dapscar/image/upload/v1703455539/Products/Charger/4_gru7d7.png"
+    ],
+    "status": "Tranding",
+    "android": [
+      {
+        "isAndroid": false,
+        "screenSize": "",
+        "variant": [
+          {
+            "processorName": "",
+            "processLabel": "",
+            "carsSupported": [],
+            "ram": "",
+            "rom": "",
+            "isAppleCarplayAndAndroidAutoSupported": true,
+            "wirelessWired": "",
+            "isDVRSupported": true,
+            "is360CameraSupported": "Yes",
+            "isSimSupported": "Yes",
+            "isWarrantyAvailable": "Yes",
+            "warrantyPeriod": "10",
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "fMBT": [
+      {
+        "isFmBt": false,
+        "controlOption": "",
+        "basePrice": 1
+      }
+    ],
+    "bassTube": [
+      {
+        "isBassTube": false,
+        "wattage": "",
+        "speakerSize": "",
+        "basePrice": 1
+      }
+    ],
+    "led": [
+      {
+        "isLed": false,
+        "variant": [
+          {
+            "wattage": "",
+            "socketsSupported": [],
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "speakers": [
+      {
+        "isSpeakers": false,
+        "speakerSize": "",
+        "basePrice": 1
+      }
+    ],
+    "chargers": [
+      {
+        "isChargers": true,
+        "wattage": "38",
+        "basePrice": 1000
+      }
+    ],
+    "amplifiers": [
+      {
+        "isAmplifiers": false,
+        "variant": [
+          {
+            "totalChannels": "",
+            "wattage": "",
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "dampingSheets": [
+      {
+        "isDampingSheets": false,
+        "thickness": "",
+        "sheetsInOneBox": "",
+        "basePrice": 1
+      }
+    ],
+    "HID": [
+      {
+        "isHID": false,
+        "variant": [
+          {
+            "wattage": "",
+            "lightColor": "",
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "camera": [
+      {
+        "isCamera": false,
+        "variant": [
+          {
+            "cameraQuality": "",
+            "areThereGuidelines": false,
+            "guidelinesType": {
+              "Static": false,
+              "Dynamic": false
+            },
+            "fieldOfViewType": {
+              "Wide": false,
+              "UltraWide": false
+            },
+            "processorsSupported": [],
+            "basePrice": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "productName": "Zap Zoom Charger",
+    "discount": "20",
+    "productDetails": [
+      {
+        "heading": "",
+        "description": ""
+      }
+    ],
+    "productFeatures": [
+      {
+        "heading": "",
+        "description": ""
+      }
+    ],
+    "aPlusContent": {
+      "imageOne": "https://res.cloudinary.com/dapscar/image/upload/v1703455509/A%20plus%20Content/Charger/1_xvrcab.png",
+      "imageTwo": "https://res.cloudinary.com/dapscar/image/upload/v1703455509/A%20plus%20Content/Charger/3_wanoux.png",
+      "imageThree": "https://res.cloudinary.com/dapscar/image/upload/v1703455510/A%20plus%20Content/Charger/4_fcclqb.png",
+      "imageFour": "https://res.cloudinary.com/dapscar/image/upload/v1703455509/A%20plus%20Content/Charger/3_wanoux.png",
+      "imageFive": "https://res.cloudinary.com/dapscar/image/upload/v1703455510/A%20plus%20Content/Charger/4_fcclqb.png",
+      "imageSix": "https://res.cloudinary.com/dapscar/image/upload/v1703455509/A%20plus%20Content/Charger/2_r7bsq0.png"
+    },
+    "productCategory": ["Chargers"],
+    "price": 1000,
+    "images": [
+      "https://res.cloudinary.com/dapscar/image/upload/v1703455563/Products/Charger/1_kk7lbu.png",
+      "https://res.cloudinary.com/dapscar/image/upload/v1703455540/Products/Charger/2_g88iii.png",
+      "https://res.cloudinary.com/dapscar/image/upload/v1703455539/Products/Charger/3_bcfze5.png",
+      "https://res.cloudinary.com/dapscar/image/upload/v1703455539/Products/Charger/4_gru7d7.png"
+    ],
+    "status": "Tranding",
+    "android": [
+      {
+        "isAndroid": false,
+        "screenSize": "",
+        "variant": [
+          {
+            "processorName": "",
+            "processLabel": "",
+            "carsSupported": [],
+            "ram": "",
+            "rom": "",
+            "isAppleCarplayAndAndroidAutoSupported": true,
+            "wirelessWired": "",
+            "isDVRSupported": true,
+            "is360CameraSupported": "Yes",
+            "isSimSupported": "Yes",
+            "isWarrantyAvailable": "Yes",
+            "warrantyPeriod": "10",
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "fMBT": [
+      {
+        "isFmBt": false,
+        "controlOption": "",
+        "basePrice": 1
+      }
+    ],
+    "bassTube": [
+      {
+        "isBassTube": false,
+        "wattage": "",
+        "speakerSize": "",
+        "basePrice": 1
+      }
+    ],
+    "led": [
+      {
+        "isLed": false,
+        "variant": [
+          {
+            "wattage": "",
+            "socketsSupported": [],
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "speakers": [
+      {
+        "isSpeakers": false,
+        "speakerSize": "",
+        "basePrice": 1
+      }
+    ],
+    "chargers": [
+      {
+        "isChargers": true,
+        "wattage": "38",
+        "basePrice": 1000
+      }
+    ],
+    "amplifiers": [
+      {
+        "isAmplifiers": false,
+        "variant": [
+          {
+            "totalChannels": "",
+            "wattage": "",
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "dampingSheets": [
+      {
+        "isDampingSheets": false,
+        "thickness": "",
+        "sheetsInOneBox": "",
+        "basePrice": 1
+      }
+    ],
+    "HID": [
+      {
+        "isHID": false,
+        "variant": [
+          {
+            "wattage": "",
+            "lightColor": "",
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "camera": [
+      {
+        "isCamera": false,
+        "variant": [
+          {
+            "cameraQuality": "",
+            "areThereGuidelines": false,
+            "guidelinesType": {
+              "Static": false,
+              "Dynamic": false
+            },
+            "fieldOfViewType": {
+              "Wide": false,
+              "UltraWide": false
+            },
+            "processorsSupported": [],
+            "basePrice": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "productName": "Zap Zoom Charger",
+    "discount": "20",
+    "productDetails": [
+      {
+        "heading": "",
+        "description": ""
+      }
+    ],
+    "productFeatures": [
+      {
+        "heading": "",
+        "description": ""
+      }
+    ],
+    "aPlusContent": {
+      "imageOne": "https://res.cloudinary.com/dapscar/image/upload/v1703455509/A%20plus%20Content/Charger/1_xvrcab.png",
+      "imageTwo": "https://res.cloudinary.com/dapscar/image/upload/v1703455509/A%20plus%20Content/Charger/3_wanoux.png",
+      "imageThree": "https://res.cloudinary.com/dapscar/image/upload/v1703455510/A%20plus%20Content/Charger/4_fcclqb.png",
+      "imageFour": "https://res.cloudinary.com/dapscar/image/upload/v1703455509/A%20plus%20Content/Charger/3_wanoux.png",
+      "imageFive": "https://res.cloudinary.com/dapscar/image/upload/v1703455510/A%20plus%20Content/Charger/4_fcclqb.png",
+      "imageSix": "https://res.cloudinary.com/dapscar/image/upload/v1703455509/A%20plus%20Content/Charger/2_r7bsq0.png"
+    },
+    "productCategory": ["Chargers"],
+    "price": 1000,
+    "images": [
+      "https://res.cloudinary.com/dapscar/image/upload/v1703455563/Products/Charger/1_kk7lbu.png",
+      "https://res.cloudinary.com/dapscar/image/upload/v1703455540/Products/Charger/2_g88iii.png",
+      "https://res.cloudinary.com/dapscar/image/upload/v1703455539/Products/Charger/3_bcfze5.png",
+      "https://res.cloudinary.com/dapscar/image/upload/v1703455539/Products/Charger/4_gru7d7.png"
+    ],
+    "status": "Tranding",
+    "android": [
+      {
+        "isAndroid": false,
+        "screenSize": "",
+        "variant": [
+          {
+            "processorName": "",
+            "processLabel": "",
+            "carsSupported": [],
+            "ram": "",
+            "rom": "",
+            "isAppleCarplayAndAndroidAutoSupported": true,
+            "wirelessWired": "",
+            "isDVRSupported": true,
+            "is360CameraSupported": "Yes",
+            "isSimSupported": "Yes",
+            "isWarrantyAvailable": "Yes",
+            "warrantyPeriod": "10",
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "fMBT": [
+      {
+        "isFmBt": false,
+        "controlOption": "",
+        "basePrice": 1
+      }
+    ],
+    "bassTube": [
+      {
+        "isBassTube": false,
+        "wattage": "",
+        "speakerSize": "",
+        "basePrice": 1
+      }
+    ],
+    "led": [
+      {
+        "isLed": false,
+        "variant": [
+          {
+            "wattage": "",
+            "socketsSupported": [],
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "speakers": [
+      {
+        "isSpeakers": false,
+        "speakerSize": "",
+        "basePrice": 1
+      }
+    ],
+    "chargers": [
+      {
+        "isChargers": true,
+        "wattage": "38",
+        "basePrice": 1000
+      }
+    ],
+    "amplifiers": [
+      {
+        "isAmplifiers": false,
+        "variant": [
+          {
+            "totalChannels": "",
+            "wattage": "",
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "dampingSheets": [
+      {
+        "isDampingSheets": false,
+        "thickness": "",
+        "sheetsInOneBox": "",
+        "basePrice": 1
+      }
+    ],
+    "HID": [
+      {
+        "isHID": false,
+        "variant": [
+          {
+            "wattage": "",
+            "lightColor": "",
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "camera": [
+      {
+        "isCamera": false,
+        "variant": [
+          {
+            "cameraQuality": "",
+            "areThereGuidelines": false,
+            "guidelinesType": {
+              "Static": false,
+              "Dynamic": false
+            },
+            "fieldOfViewType": {
+              "Wide": false,
+              "UltraWide": false
+            },
+            "processorsSupported": [],
+            "basePrice": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "productName": "Zap Zoom Charger",
+    "discount": "20",
+    "productDetails": [
+      {
+        "heading": "",
+        "description": ""
+      }
+    ],
+    "productFeatures": [
+      {
+        "heading": "",
+        "description": ""
+      }
+    ],
+    "aPlusContent": {
+      "imageOne": "https://res.cloudinary.com/dapscar/image/upload/v1703455509/A%20plus%20Content/Charger/1_xvrcab.png",
+      "imageTwo": "https://res.cloudinary.com/dapscar/image/upload/v1703455509/A%20plus%20Content/Charger/3_wanoux.png",
+      "imageThree": "https://res.cloudinary.com/dapscar/image/upload/v1703455510/A%20plus%20Content/Charger/4_fcclqb.png",
+      "imageFour": "https://res.cloudinary.com/dapscar/image/upload/v1703455509/A%20plus%20Content/Charger/3_wanoux.png",
+      "imageFive": "https://res.cloudinary.com/dapscar/image/upload/v1703455510/A%20plus%20Content/Charger/4_fcclqb.png",
+      "imageSix": "https://res.cloudinary.com/dapscar/image/upload/v1703455509/A%20plus%20Content/Charger/2_r7bsq0.png"
+    },
+    "productCategory": ["Chargers"],
+    "price": 1000,
+    "images": ["https://res.cloudinary.com/dapscar/image/upload/v1703455563/Products/Charger/1_kk7lbu.png", "https://res.cloudinary.com/dapscar/image/upload/v1703455540/Products/Charger/2_g88iii.png", "https://res.cloudinary.com/dapscar/image/upload/v1703455539/Products/Charger/3_bcfze5.png", "https://res.cloudinary.com/dapscar/image/upload/v1703455539/Products/Charger/4_gru7d7.png"],
+    "status": "Tranding",
+    "android": [
+      {
+        "isAndroid": false,
+        "screenSize": "",
+        "variant": [
+          {
+            "processorName": "",
+            "processLabel": "",
+            "carsSupported": [],
+            "ram": "",
+            "rom": "",
+            "isAppleCarplayAndAndroidAutoSupported": true,
+            "wirelessWired": "",
+            "isDVRSupported": true,
+            "is360CameraSupported": "Yes",
+            "isSimSupported": "Yes",
+            "isWarrantyAvailable": "Yes",
+            "warrantyPeriod": "10",
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "fMBT": [
+      {
+        "isFmBt": false,
+        "controlOption": "",
+        "basePrice": 1
+      }
+    ],
+    "bassTube": [
+      {
+        "isBassTube": false,
+        "wattage": "",
+        "speakerSize": "",
+        "basePrice": 1
+      }
+    ],
+    "led": [
+      {
+        "isLed": false,
+        "variant": [
+          {
+            "wattage": "",
+            "socketsSupported": [],
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "speakers": [
+      {
+        "isSpeakers": false,
+        "speakerSize": "",
+        "basePrice": 1
+      }
+    ],
+    "chargers": [
+      {
+        "isChargers": true,
+        "wattage": "38",
+        "basePrice": 1000
+      }
+    ],
+    "amplifiers": [
+      {
+        "isAmplifiers": false,
+        "variant": [
+          {
+            "totalChannels": "",
+            "wattage": "",
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "dampingSheets": [
+      {
+        "isDampingSheets": false,
+        "thickness": "",
+        "sheetsInOneBox": "",
+        "basePrice": 1
+      }
+    ],
+    "HID": [
+      {
+        "isHID": false,
+        "variant": [
+          {
+            "wattage": "",
+            "lightColor": "",
+            "basePrice": 1
+          }
+        ]
+      }
+    ],
+    "camera": [
+      {
+        "isCamera": false,
+        "variant": [
+          {
+            "cameraQuality": "",
+            "areThereGuidelines": false,
+            "guidelinesType": {
+              "Static": false,
+              "Dynamic": false
+            },
+            "fieldOfViewType": {
+              "Wide": false,
+              "UltraWide": false
+            },
+            "processorsSupported": [],
+            "basePrice": 1
+          }
+        ]
+      }
+    ]
+  }
+]
